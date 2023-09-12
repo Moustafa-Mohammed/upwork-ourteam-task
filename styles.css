@@ -67,7 +67,6 @@ p {
 
 .team-item {
   height: 520px;
-  max-width: 317px;
   overflow: hidden;
   position: relative;
 }
@@ -148,6 +147,16 @@ p {
   }
   hr {
     width: 64px;
+  }
+
+  h1 {
+    font-size: 40px;
+    line-height: 48px;
+  }
+  p {
+    width: 234px;
+    font-size: 14px;
+    line-height: 20px;
   }
   .team-list {
     grid-template-columns: 1fr;
